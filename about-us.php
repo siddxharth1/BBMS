@@ -110,7 +110,7 @@
             <div class="column">
                 <div class="team">
                     <div class="team-img">
-                        <img src="images/WhatsApp Image 2023-02-11 at 18.08.34.jpg" alt="Team Image">
+                        <img src="images/WhatsApp Image 2023-02-11 at 18.08.34.jpg" alt="Team Image"/>
                     </div>
                     <div class="team-content">
                         <h2>KESHAV ANAND</h2>
