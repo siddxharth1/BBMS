@@ -2,9 +2,9 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link href="css/home.css" rel="stylesheet" type="text/css" />
     <link href="css/nav.css" rel="stylesheet" type="text/css" />
     <title>Home</title>
@@ -13,7 +13,7 @@
 <body>
     <nav>
         <div class="nav-left">
-            <img src="images/watermark-removebg-preview1.png"  alt="logo" onclick="location.href='home.php';">
+            <img src="images/watermark-removebg-preview1.png"  alt="logo" onclick="location.href='home.php';"/>
         </div>
         <div class="nav-right">
             <a href="blog.php">Blog</a>
@@ -28,21 +28,21 @@
         <div class="mySlides fade">
             <div class="numbertext">1 / 3</div>
             <img src="https://media-private.canva.com/UciGg/MAFaQyUciGg/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T151021Z&X-Amz-Expires=90864&X-Amz-Signature=13b990c715377f96ba4ab77e9cf11224bd334037b07e49975e013156cde9a064&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2011%20Feb%202023%2016%3A24%3A45%20GMT" width="700" height="300"
-                class="slider-img">
+                class="slider-img"/>
            
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">2 / 3</div>
             <img src="https://media-private.canva.com/9OLJE/MAFaQ99OLJE/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T185504Z&X-Amz-Expires=77228&X-Amz-Signature=a0fc2460960d6d29c18e9409e034de69b5a7e2a974011ab11beb7a0d1587e772&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2011%20Feb%202023%2016%3A22%3A12%20GMT" width="700" height="300"
-                class="slider-img">
+                class="slider-img"/>
            
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
             <img src="https://media-private.canva.com/0mMgo/MAFaQw0mMgo/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T124200Z&X-Amz-Expires=97679&X-Amz-Signature=07f7df2c2bf633e6625a23b29b79981b5b2866ae091a7acfe0e78b0979cb3ac8&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2011%20Feb%202023%2015%3A49%3A59%20GMT" width="700" height="300"
-                class="slider-img">
+                class="slider-img"/>
             
         </div>
 
@@ -89,7 +89,7 @@
 
         <footer>
             <div class="footer-content">
-                <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt="">
+                <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt=""/>
                 <div >
                     <h3>Blood Bank Management System</h3>
                     <p>We are at the forefront of blood donation campaigns, creating awareness about the importance of blood donation and encouraging individuals to become donors. We also work to educate communities on the need for safe blood and blood products, as well as the processes involved in blood donation.</p>
