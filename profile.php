@@ -127,11 +127,12 @@
                     </tbody>
                 </table>
             </div>
-        </div><a href="login.php" style="text-decoration: none; font-weight: 700; position:absolute; right: 10%;">Log Out <i class="fa fa-sign-out"></i></a><br>
+        </div><a href="login.php" style="text-decoration: none; font-weight: 700; position:absolute; right: 10%;">Log Out <i class="fa fa-sign-out"></i></a>
+        <br/>
     </div>
     <footer>
         <div class="footer-content">
-            <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt="">
+            <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt=""/>
             <div >
                 <h3>Blood Bank Management System</h3>
                 <p>We are at the forefront of blood donation campaigns, creating awareness about the importance of blood donation and encouraging individuals to become donors. We also work to educate communities on the need for safe blood and blood products, as well as the processes involved in blood donation.</p>
