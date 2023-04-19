@@ -2,17 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link href="css/profile.css" rel="stylesheet" type="text/css" />
     <link href="css/nav.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
     <title>Profile</title>
 </head>
 <body>
     <nav>
         <div class="nav-left">
-            <img src="images/watermark-removebg-preview1.png"  alt="logo" onclick="location.href='home.php';">
+            <img src="images/watermark-removebg-preview1.png"  alt="logo" onclick="location.href='home.php';" />
         </div>
         <div class="nav-right">
             <a href="home.php">Home</a>
