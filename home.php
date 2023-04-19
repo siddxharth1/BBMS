@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <nav>
+<!--     <nav>
         <div class="nav-left">
             <img src="images/watermark-removebg-preview1.png"  alt="logo" onclick="location.href='home.php';"/>
         </div>
@@ -85,9 +85,9 @@
               <input id="submit" type="submit" value="Submit"/>
             </form>
             <p id="print"></p>
-          </div>
+          </div> -->
 
-<!--         <footer>
+        <footer>
             <div class="footer-content">
                 <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt=""/>
                 <div >
@@ -108,7 +108,7 @@
                 <center><pre>copyright &copy; BBMS </pre></center>      
             </div>
     
-        </footer> -->
+        </footer>
 
 
     
