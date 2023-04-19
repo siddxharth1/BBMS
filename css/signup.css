@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inner{
+    height: 75%;
+    width: 70%;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 10px 10px 68px -6px black;
+    display: flex;
+    justify-content:space-between;
+    border-radius: 20px;
+}
+.image{
+    width: 50%;
+    height: 100%;
+    padding: 0 50px;
+    pointer-events: none;
+}
+.image img{
+    margin-top: 45px;
+    height: 80%;
+    width: 100%;
+}
+.form{
+    background:rgb(215, 0, 11);
+    /* padding: 40px 0 0 40px; */
+    padding: 5%;
+    width: 50%;
+    height: 100%;
+    border-radius:0px 20px 20px 0px;
+}
+.form h1{
+  display: inline-block;
+    color:white;
+    font-weight: 700;
+    margin: 5% 0;
+  border-bottom: 5px solid white;
+}
+.form a{
+    font-family:serif;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    text-decoration: none;
+    transition: 0.25s ease-in-out;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.form a:hover{
+    color:white;
+}
+input{
+    width: 95%;
+    height:3rem;
+    border:none;
+    outline:none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    margin:10px 0;
+    padding:0 8px 0 20px;
+  transition: 0.25s ease-in-out;     
+}
+input:focus{ 
+  box-shadow: 0 0 10px 1px white;
+}
+input:focus:invalid {
+    color: red;
+}
+input:focus:invalid::placeholder {
+    color: red;
+}
+input:focus:valid{
+    color: green;
+    outline: 3px solid green;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+  width:90%;
+  padding-right: 3%;
+  margin-top: 2%;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+opacity: 1;
+width: 25px;
+height: 25px;
+  cursor:pointer;
+}
+i{
+margin-left: -35px; 
+cursor:pointer;
+z-index: 99;
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 25px;
+    margin: 20px 0 0 10px;
+    font-weight: 700;
+    font-size: large;
+    border: none;
+    transition: 0.2s ease-in-out;
+}
+button:hover{
+    transform: scale(1.1);
+    transition: 0.2s ease-in-out;
+}
+@media(max-width: 665px){
+    .image{
+        display: none;
+    }
+    .form{
+        width: 100%;
+        border-radius: 10px;
+    }
+    
+}

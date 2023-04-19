@@ -1,0 +1,229 @@
+html, body {
+    height: 100%;
+    width: 99.7%;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 0;
+  }
+  @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+  * {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  
+  .tit{
+    margin: 0;
+  }
+  h1{
+    border-bottom:5px solid #50c5fc;
+  }
+  .aboutus{
+    margin: 0 5%;
+  }
+  
+  *,
+  *::before,
+  *::after{
+      box-sizing: border-box;
+  }
+  .abt{
+      max-width: 100%;
+      margin: 80px 4% 1% 4%;
+  }
+  .abt h1{
+      display: inline-block;
+      font-size: 35px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: #000000;
+      margin: 0 0 5px;
+      position: relative;
+  }
+  
+  p{
+      padding: 0;
+      margin: 0 0 15px 0;
+      color: #454545;
+      font-weight: 300;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6{
+      padding: 0;
+      margin: 0 0 15px 0;
+      color: #333333;
+      font-weight: 700;
+  }
+  img{
+      width: 100%;
+      height: auto;
+  }
+  .container{
+      width: 100%;
+  }
+  
+  .section-title{
+      max-width: 100%;
+      margin: 0 4%;
+  }
+  .section-title h1{
+      display: inline-block;
+      font-size: 35px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: #000000;
+      margin: 0 0 5px;
+      position: relative;
+  }
+  .row{
+      display: flex;
+      flex-wrap: wrap;
+    margin-bottom:15px;
+       justify-content: center;
+       align-items: center;
+  }
+  .column{
+      position: relative;
+      width: 100%;
+      padding-right: 15px;
+      padding-left: 15px;
+      flex: 0 0 100%;
+      max-width: 100%;
+    margin:0 10px;
+  }
+  .team{
+      margin-bottom:30px ;
+  }
+  .team .team-img{
+      position: relative;
+      font-size: 0;
+      text-align: center;
+  }
+  .team .team-img img{
+      width: 160px;
+      height: 160px;
+      border-radius: 100%;
+      border: 20px solid #e1e1e1;
+  }
+  
+  .team .team-content{
+      padding: 80px 20px 20px 20px;
+      margin-top: -80px;
+      text-align: center;
+      background: #e1e1e1;
+      border-radius: 10px;
+  }
+  .team .team-content h2{
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  }
+  .team .team-content h3{
+      font-size: 16px;
+      font-weight: 300;
+  }
+  .team .team-content h4{
+      font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  font-style: italic;
+  margin-bottom: 0;
+  }
+  .team .team-content p{
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 22px;
+  }
+  .team .team-social{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      padding: 35px;
+      top: 0;
+      left:0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(255, 255, 255, .6);
+      transition: all .3s;
+      font-size: 0;
+      z-index: 1;
+      opacity: 0;
+  }
+  .team:hover .team-social{
+      opacity: 1;
+  }
+  .team .team-social a{
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      margin-right:5px ;
+      padding: 11px 0 10px 0;
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 16px;
+      text-align: center;
+      color: #ffffff;
+      border-radius: 10px;
+      transition: all .3s;
+      margin-top: 50px;
+  }
+  .team .team-social a.social-tw{
+      background: #003a52;
+  }
+  .team .team-social a.social-fb{
+      background: #3b5998;
+  }
+  .team .team-social a.social-li{
+      background: #0e76a8;
+  }
+  .team .team-social a.social-in{
+      background: linear-gradient(75deg,  #5851db, #833ab4, #c13584, #e1306c);
+  }
+  .team .team-social a:last-child{
+      margin-right: 0;
+  }
+  .team:hover .team-social a{
+      margin-top: 0;
+  }
+  .team .team-social a:hover{
+      background: #222222;
+  }
+  
+  
+  /* Mobile Responsive */
+  
+  @media (min-width: 576px){
+      .container{
+          max-width: 540px;
+      }
+      .column{
+          max-width: 50%;
+      }
+  }
+  @media (min-width: 768px){
+      .container{
+          max-width: 720px;
+      }
+      .column{
+          max-width: 33.333333%;
+      }
+  }
+  @media (min-width: 992px){
+      .container{
+          max-width: 960px;
+      }
+      .column{
+          max-width: 25%;
+      }
+  }
+  @media (min-width: 1200px){
+      .container{
+          max-width: 100%;
+      }
+     
+  }
