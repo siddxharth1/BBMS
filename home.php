@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<!--     <nav>
+    <nav>
         <div class="nav-left">
             <img src="images/watermark-removebg-preview1.png"  alt="logo" onclick="location.href='home.php';"/>
         </div>
@@ -70,8 +70,6 @@
           <div class="card_title title-black">
             <h2>Recieve Blood</h2>
           </div>
-          </div>
-        
         </div>
         
         <div class="cardd div">
@@ -82,10 +80,10 @@
             </div>
             <form action="connect_sub.php" method="post">
               <input id="useremail" name="subscribe" type="email" placeholder="Your E-Mail" required />
-              <input id="submit" type="submit" value="Submit"/>
+              <input id="submit" type="submit" value="Submit" />
             </form>
             <p id="print"></p>
-          </div> -->
+          </div>
 
         <footer>
             <div class="footer-content">
