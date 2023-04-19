@@ -2,18 +2,18 @@
 <html>
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width"/>
   <title>Blogs</title>
   <link href="css/blog.css" rel="stylesheet" type="text/css" />
   <link href="css/nav.css" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous"/>
 </head>
 
 <body>
   <nav>
   <div class="nav-left">
-    <img src="images/watermark-removebg-preview1.png" alt="logo" onclick="location.href='home.php';">
+    <img src="images/watermark-removebg-preview1.png" alt="logo" onclick="location.href='home.php';"/>
   </div>
   <div class="nav-right">
     <a href="home.php">Home</a>
@@ -21,7 +21,7 @@
     <a href="contact-us.php">Contact Us</a>
     <a href="about-us.php">About Us</a>
     <a href="profile.php">Profile</a>
-    </div> 
+   </div> 
 </nav>
   
   <h1 class="Head">Blogs</h1>
@@ -77,7 +77,7 @@
   </div>
   <footer>
     <div class="footer-content">
-        <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt="">
+        <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt=""/>
         <div >
             <h3>Blood Bank Management System</h3>
             <p>We are at the forefront of blood donation campaigns, creating awareness about the importance of blood donation and encouraging individuals to become donors. We also work to educate communities on the need for safe blood and blood products, as well as the processes involved in blood donation.</p>
@@ -89,8 +89,8 @@
                 <li><a target="_blank" href="#"><i class="fa fa-linkedin-square"></i></a></li>
             </ul>
         </div>
-        
     </div>
+    
     <div class="footer-bottom">
         <center><pre>copyright &copy; BBMS </pre></center>      
     </div>
