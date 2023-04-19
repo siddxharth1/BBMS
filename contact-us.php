@@ -2,19 +2,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type"content="text/html; charset=utf-8"/>
-		<meta name="viewport"content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="viewport"content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
 		<title>Contact us</title>
 		<link href="css/contact-us.css"rel="stylesheet"type="text/css"/>
 		<link href="css/nav.css" rel="stylesheet" type="text/css" />
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous"/>
 	</head>
 	<body>
         <nav>
             <div class="nav-left">
-                <img src="images/watermark-removebg-preview1.png" alt="logo" onclick="location.href='home.php';">
+                <img src="images/watermark-removebg-preview1.png" alt="logo" onclick="location.href='home.php';"/>
             </div>
             <div class="nav-right">
-				<a href="home.php">Home</a>
+		<a href="home.php">Home</a>
                 <a href="blog.php">Blog</a>
                 <a href="contact-us.php">Contact Us</a>
                 <a href="about-us.php">About Us</a>
@@ -56,8 +56,8 @@
 						<li><a target="_blank" href="#"><i class="fa fa-linkedin-square"></i></a></li>
 					</ul>
 				</div>
-				
 			</div>
+			
 			<div class="footer-bottom">
 				<center><pre>copyright &copy; BBMS </pre></center>      
 			</div>
