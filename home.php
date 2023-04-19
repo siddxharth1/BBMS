@@ -81,8 +81,8 @@
               <p>Subscribe us for latest updates</p>
             </div>
             <form action="connect_sub.php" method="post">
-              <input id="useremail" name="subscribe" type="email" placeholder="Your E-Mail" required>
-              <input id="submit" type="submit" value="Submit">
+              <input id="useremail" name="subscribe" type="email" placeholder="Your E-Mail" required />
+              <input id="submit" type="submit" value="Submit"/>
             </form>
             <p id="print"></p>
           </div>
