@@ -134,7 +134,7 @@
     </div>
 
 
-<br><br>
+</br></br>
     <footer>
         <div class="footer-content">
             <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt=""/>
