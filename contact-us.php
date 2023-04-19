@@ -55,12 +55,13 @@
 						<li><a target="_blank" href="#"><i class="fa fa-youtube"></i></a></li>
 						<li><a target="_blank" href="#"><i class="fa fa-linkedin-square"></i></a></li>
 					</ul>
-				</div>
+				
 			</div>
 			
 			<div class="footer-bottom">
 				<center><pre>copyright &copy; BBMS </pre></center>      
 			</div>
+				</div>
 	
 		</footer>
 	</body>
