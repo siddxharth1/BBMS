@@ -147,7 +147,7 @@
             
         </div>
         <div class="footer-bottom">
-            <center><pre>copyright &copy; BBMS </pre></center>
+            <center><pre>copyright BBMS </pre></center>
             </div>      
         </div>
 
