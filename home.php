@@ -112,7 +112,7 @@
 
 
     
-    <script>
+<!--     <script>
         let slideIndex = 1;
         showSlides(slideIndex);
 
@@ -135,7 +135,7 @@
 
             slides[slideIndex - 1].style.display = "block";
         }
-    </script>
+    </script> -->
 </body>
 
 </html>
