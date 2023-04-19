@@ -40,8 +40,8 @@
             to doing our part to ensure that everyone has access to the blood they need, when they need it. Thank you
             for choosing our Blood Bank Management System.</p>
     </div>
-    <br>
-    <br>
+    </br>
+    </br>
     <div class="container">
         <div class="section-title tit">
             <h1 class="team">Our Team</h1>
