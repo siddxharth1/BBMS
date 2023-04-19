@@ -144,11 +144,10 @@
                     <li><a target="_blank" href="#"><i class="fa fa-linkedin-square"></i></a></li>
                 </ul>
             </div>
-            
         </div>
+        
         <div class="footer-bottom">
-            <center><pre>copyright BBMS </pre></center>
-            </div>      
+            <center><pre>copyright &copy; BBMS </pre></center>
         </div>
 
     </footer>
