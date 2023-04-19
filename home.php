@@ -87,7 +87,7 @@
             <p id="print"></p>
           </div>
 
-        <footer>
+<!--         <footer>
             <div class="footer-content">
                 <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt=""/>
                 <div >
@@ -108,11 +108,11 @@
                 <center><pre>copyright &copy; BBMS </pre></center>      
             </div>
     
-        </footer>
+        </footer> -->
 
 
     
-<!--     <script>
+    <script>
         let slideIndex = 1;
         showSlides(slideIndex);
 
@@ -135,7 +135,7 @@
 
             slides[slideIndex - 1].style.display = "block";
         }
-    </script> -->
+    </script>
 </body>
 
 </html>
