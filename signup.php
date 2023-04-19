@@ -16,10 +16,10 @@
         <div class="form">
             <form action="connect.php" method="post">
                 <h1>Signup</h1>
-                <input type="text" placeholder="Phone Number" name="pno" minlength="10" required>
-                <input type="password" name="password" id="password" placeholder="Create Password" minlength="8" required>
+                <input type="text" placeholder="Phone Number" name="pno" minlength="10" required />
+                <input type="password" name="password" id="password" placeholder="Create Password" minlength="8" required />
                 <i class="far fa-eye" id="togglePassword"></i>
-                <input type="date" name="dob" id="">
+                <input type="date" name="dob" id="" />
                 <center>
                     <div class="links">
                         <a href="login.php">Have an account</a>
