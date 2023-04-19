@@ -32,9 +32,6 @@
  
 </body>
 
-
-
-
     <div class="container">
         <header class="header">
             <b><h1 style="font-size:3vw; font-weight: 900; color: aliceblue;" id="title" class="text-center">Blood Request</h1></b>
@@ -120,7 +117,7 @@
 </br></br>
     <footer>
         <div class="footer-content">
-            <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt="">
+            <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt=""/>
             <div >
                 <h3>Blood Bank Management System</h3>
                 <p>We are at the forefront of blood donation campaigns, creating awareness about the importance of blood donation and encouraging individuals to become donors. We also work to educate communities on the need for safe blood and blood products, as well as the processes involved in blood donation.</p>
