@@ -36,27 +36,27 @@
                         <tr>
                             <td>Name</td>
                             <td>:</td>
-                            <td> <input type="text" name="name" id="" value=""  placeholder="Full Name"> </td>
+                            <td> <input type="text" name="name" id="" value=""  placeholder="Full Name"/> </td>
                         </tr>
                         <tr>
                             <td>Email</td>
                             <td>:</td>
-                            <td><input type="text" name="email" id="" value="" placeholder="Email Address"></td>
+                            <td><input type="text" name="email" id="" value="" placeholder="Email Address"/></td>
                         </tr>
                         <tr>
                             <td>Address</td>
                             <td>:</td>
-                            <td><input type="text" name="address" id="" value="" placeholder="Address"></td>
+                            <td><input type="text" name="address" id="" value="" placeholder="Address"/></td>
                         </tr>
                         <tr>
                             <td>Age</td>
                             <td>:</td>
-                            <td><input type="number" name="age" id="" value="" placeholder="Age"></td>
+                            <td><input type="number" name="age" id="" value="" placeholder="Age"/></td>
                         </tr>
                         <tr>
                             <td>Phone Number</td>
                             <td>:</td>
-                            <td><input type="text" name="pno" id="" value="" placeholder="Phone Number"></td>
+                            <td><input type="text" name="pno" id="" value="" placeholder="Phone Number"/></td>
                         </tr>
                         <tr>
                             <td>Blood group</td>
