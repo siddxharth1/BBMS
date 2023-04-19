@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width"/>
   <title>Blood Bank</title>
   <link href="css/req.css" rel="stylesheet" type="text/css" />
   <link href="css/nav.css" rel="stylesheet" type="text/css" />
@@ -12,7 +12,7 @@
 <body>
  <nav>
   <div class="nav-left">
-    <img src="images/watermark-removebg-preview1.png" alt="logo" onclick="location.href='home.php';">
+    <img src="images/watermark-removebg-preview1.png" alt="logo" onclick="location.href='home.php';"/>
   </div>
   <div class="nav-right">
     <a href="home.php">Home</a>
@@ -117,7 +117,7 @@
     </div>
 
 
-<br><br>
+</br></br>
     <footer>
         <div class="footer-content">
             <img class="imagg" src="images/watermark-removebg-preview1.png" style="height: 250px; width: 250px; transform: translateY(-20px);" alt="">
