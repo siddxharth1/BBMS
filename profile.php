@@ -128,7 +128,7 @@
                 </table>
             </div>
         </div><a href="login.php" style="text-decoration: none; font-weight: 700; position:absolute; right: 10%;">Log Out <i class="fa fa-sign-out"></i></a>
-        <br/>
+        </br>
     </div>
     <footer>
         <div class="footer-content">
