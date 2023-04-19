@@ -50,7 +50,7 @@
         <a target="_blank" class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
 
-    <br>
+    </br>
 
     <div class="cards-list">
   
