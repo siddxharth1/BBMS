@@ -7,7 +7,7 @@
     <title>replit</title>
     <link href="css/about-us.css" rel="stylesheet" type="text/css" />
     <link href="css/nav.css" rel="stylesheet" type="text/css" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet"/>
 </head>
 
 <body>
@@ -53,7 +53,7 @@
             <div class="column">
                 <div class="team">
                     <div class="team-img">
-                        <img src="images/WhatsApp Image 2023-02-11 at 18.40.07.jpg"  alt="Team Image">
+                        <img src="images/WhatsApp Image 2023-02-11 at 18.40.07.jpg"  alt="Team Image"/>
                     </div>
                     <div class="team-content">
                         <h2>ANUBHAV CHAURASIA</h2>
@@ -72,7 +72,7 @@
             <div class="column">
                 <div class="team">
                     <div class="team-img">
-                        <img src="images/PSX_20230102_090157-01.jpeg.jpg" alt="Team Image">
+                        <img src="images/PSX_20230102_090157-01.jpeg.jpg" alt="Team Image"/>
                     </div>
                     <div class="team-content">
                         <h2>HARSHIL PATEL</h2>
@@ -91,7 +91,7 @@
             <div class="column">
                 <div class="team">
                     <div class="team-img">
-                        <img src="images/photo_2022-11-24_12-27-17.jpg" alt="Team Image">
+                        <img src="images/photo_2022-11-24_12-27-17.jpg" alt="Team Image"/>
                     </div>
                     <div class="team-content">
                         <h2>SIDDHARTH SHARMA</h2>
@@ -128,7 +128,7 @@
             <div class="column">
                 <div class="team">
                     <div class="team-img">
-                        <img src="images/WhatsApp Image 2023-02-10 at 20.47.03.jpg" alt="Team Image">
+                        <img src="images/WhatsApp Image 2023-02-10 at 20.47.03.jpg" alt="Team Image"/>
                     </div>
                     <div class="team-content">
                         <h2>MAYUR BHOSALE</h2>
