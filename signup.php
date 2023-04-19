@@ -2,16 +2,16 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
     <title>Signup</title>
     <link href="css/signup.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"/>
 </head>
 
 <body>
     <div class="inner">
-        <div class="image"> <img src="images/watermark-removebg-preview1.png" alt="Logo"></div>
+        <div class="image"> <img src="images/watermark-removebg-preview1.png" alt="Logo"/></div>
 
         <div class="form">
             <form action="connect.php" method="post">
