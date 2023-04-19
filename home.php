@@ -71,6 +71,7 @@
             <h2>Recieve Blood</h2>
           </div>
         </div>
+        </div>
         
         <div class="cardd div">
             <div class="texxt div">
